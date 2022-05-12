@@ -1,2 +1,2 @@
 # Stopwatch
-Projeto inical para construções de spotwatch com algumas funções
+Projeto inicial para construção de spotwatch com algumas funções
